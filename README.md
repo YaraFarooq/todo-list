@@ -8,7 +8,7 @@
 You can view a live demo of the project here: https://yarafarooq.github.io/todo-list/
 
 
-## 😃 Features:
+##  Features:
 
 - ➕ Add todos
 - 🗑️ Delete todos
